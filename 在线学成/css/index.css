@@ -209,6 +209,7 @@ body {
   border-right: none;
 }
 .recommend .modify {
+  margin-right:26px;
   font-size: 16px;
   color: #00a4ff;
 }
