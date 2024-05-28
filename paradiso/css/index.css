@@ -281,8 +281,9 @@
 }
 .border-bottom .all .right .title .three li a {
   margin-left: 12px;
-  font-size: 14px;
+  font-size: 12px;
   color: #868480;
+  height:13px;
 }
 .border-bottom .all .right .title .three li a:hover {
   color: #80a6b5;
@@ -306,11 +307,11 @@
   display: flex;
 }
 .border-bottom .foot-top .left p {
-  font-size: 60px;
+  font-size: 50px;
   color: #5a8fac;
 }
 .border-bottom .foot-top .left span {
-  font-size: 59px;
+  font-size: 50px;
   color: #5a8fac;
   margin-top: 17px;
   width: 547px;
@@ -332,7 +333,7 @@
   height: 40px;
   border-radius: 5px;
   background-color: #5689a5;
-  margin-top: 40px;
+  margin-top: 30px;
 }
 .border-bottom .foot-top .left .more a {
   font-size: 17px;
@@ -368,7 +369,7 @@
   /* width: 267px; */
 }
 .border-bottom .foot-top .right .center .you span {
-  font-size: 14px;
+  font-size: 12px;
   margin-top: 14px;
   width: 461px;
   color: #868480;
